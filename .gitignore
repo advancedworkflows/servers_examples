@@ -1,0 +1,7 @@
+venv/*
+code_workflow/*
+*.pyc
+__pycache__/*
+.pytest_cache/*
+.env
+Makefile
