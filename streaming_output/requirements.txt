@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+jinja2
+python-multipart
+pytest
+pytest-asyncio
+pytest-bdd
+httpx
+sse-starlette
