@@ -1,0 +1,1 @@
+Regenerate FastAPI endpoints on the flow
